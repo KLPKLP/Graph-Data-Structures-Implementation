@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemA.Core", "SemA.Core\SemA.Core.csproj", "{7ECF7378-13DD-443A-BA35-47365AD1910B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemA.GUI", "SemA.GUI\SemA.GUI.csproj", "{2FCE411F-510A-4257-8249-F425FD41ABAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ECF7378-13DD-443A-BA35-47365AD1910B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ECF7378-13DD-443A-BA35-47365AD1910B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ECF7378-13DD-443A-BA35-47365AD1910B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ECF7378-13DD-443A-BA35-47365AD1910B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FCE411F-510A-4257-8249-F425FD41ABAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCE411F-510A-4257-8249-F425FD41ABAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCE411F-510A-4257-8249-F425FD41ABAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCE411F-510A-4257-8249-F425FD41ABAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FAAA38B-B610-44AC-B1A9-C16E58E54DED}
+	EndGlobalSection
+EndGlobal
