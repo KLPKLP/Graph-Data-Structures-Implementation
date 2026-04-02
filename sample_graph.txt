@@ -1,0 +1,69 @@
+# Města
+TOWN;Nové Město;1.0;1.0
+TOWN;Česká Lípa;2.5;2.0
+TOWN;Hradec Králové;5.0;1.5
+TOWN;Žďár nad Sázavou;7.0;2.3
+TOWN;Kutná Hora;4.2;3.8
+TOWN;Jablonné v Podještědí;1.3;4.5
+TOWN;Bílá Hora;3.0;5.2
+TOWN;Staré Město;5.8;5.0
+TOWN;Velké Meziříčí;7.8;4.6
+TOWN;Červený Kostelec;9.2;3.5
+TOWN;Dolní Lhota;2.0;7.0
+TOWN;Horní Planá;4.5;7.6
+TOWN;Písečné Pole;6.4;7.2
+TOWN;Nový Dvůr;8.5;6.8
+TOWN;Malá Skála;10.2;6.0
+TOWN;Klášterec nad Ohří;1.6;9.2
+TOWN;Lánská Ves;3.8;9.8
+TOWN;České Budějovice;6.0;9.0
+TOWN;Třebíč;8.0;9.4
+TOWN;Frýdek-Místek;10.3;8.8
+TOWN;Uherské Hradiště;5.2;11.2
+TOWN;Železná Ruda;8.8;11.4
+
+# Silnice
+ROAD;Nové Město;Česká Lípa;2.1;false
+ROAD;Nové Město;Hradec Králové;4.2;false
+ROAD;Nové Město;Jablonné v Podještědí;3.8;false
+ROAD;Česká Lípa;Kutná Hora;2.5;false
+ROAD;Česká Lípa;Bílá Hora;3.0;false
+ROAD;Česká Lípa;Jablonné v Podještědí;2.7;true
+ROAD;Hradec Králové;Žďár nad Sázavou;2.4;false
+ROAD;Hradec Králové;Kutná Hora;2.3;false
+ROAD;Hradec Králové;Staré Město;4.1;true
+ROAD;Žďár nad Sázavou;Velké Meziříčí;2.0;false
+ROAD;Žďár nad Sázavou;Červený Kostelec;2.6;false
+ROAD;Žďár nad Sázavou;Kutná Hora;3.1;false
+ROAD;Kutná Hora;Bílá Hora;2.2;false
+ROAD;Kutná Hora;Staré Město;2.0;false
+ROAD;Jablonné v Podještědí;Bílá Hora;2.4;false
+ROAD;Jablonné v Podještědí;Dolní Lhota;3.0;false
+ROAD;Bílá Hora;Dolní Lhota;2.1;false
+ROAD;Bílá Hora;Horní Planá;2.8;false
+ROAD;Staré Město;Velké Meziříčí;2.1;false
+ROAD;Staré Město;Písečné Pole;2.5;false
+ROAD;Velké Meziříčí;Červený Kostelec;2.0;true
+ROAD;Velké Meziříčí;Nový Dvůr;2.6;false
+ROAD;Červený Kostelec;Malá Skála;3.0;false
+ROAD;Dolní Lhota;Klášterec nad Ohří;2.4;false
+ROAD;Dolní Lhota;Lánská Ves;2.2;false
+ROAD;Horní Planá;Lánská Ves;2.3;false
+ROAD;Horní Planá;České Budějovice;2.5;false
+ROAD;Horní Planá;Písečné Pole;2.0;true
+ROAD;Písečné Pole;Nový Dvůr;2.2;false
+ROAD;Písečné Pole;České Budějovice;2.1;false
+ROAD;Nový Dvůr;Malá Skála;1.9;false
+ROAD;Nový Dvůr;Třebíč;2.7;false
+ROAD;Malá Skála;Frýdek-Místek;2.9;false
+ROAD;Klášterec nad Ohří;Lánská Ves;2.5;false
+ROAD;Lánská Ves;České Budějovice;2.4;false
+ROAD;České Budějovice;Třebíč;2.3;false
+ROAD;České Budějovice;Uherské Hradiště;3.1;true
+ROAD;Třebíč;Frýdek-Místek;2.4;false
+ROAD;Třebíč;Železná Ruda;2.2;false
+ROAD;Uherské Hradiště;Železná Ruda;2.7;false
+ROAD;Frýdek-Místek;Železná Ruda;2.6;false
+ROAD;Lánská Ves;Uherské Hradiště;3.8;false
+ROAD;Staré Město;České Budějovice;4.4;false
+ROAD;Bílá Hora;Písečné Pole;4.0;true
